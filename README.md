@@ -10,3 +10,10 @@ This project analyses the dataset containing sales information of a retail store
 1. Pandas
 2. Matplotlib
 3. Seaborn
+
+
+## Using POWER BI
+
+![image](https://user-images.githubusercontent.com/61038746/120691557-411d3780-c4c4-11eb-9295-443b6e05f9ab.png)
+![image](https://user-images.githubusercontent.com/61038746/120691605-4da19000-c4c4-11eb-87a6-9de9176a0a00.png)
+![image](https://user-images.githubusercontent.com/61038746/120691618-51351700-c4c4-11eb-9900-b01d88113a49.png)
